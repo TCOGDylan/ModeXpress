@@ -1,0 +1,23 @@
+{
+    "TransactionLines": {
+        "TransactionLine": [{
+            "SequenceNumber": 1,
+            "TransactionLineId": 1002,
+            "DateTime": "2021-09-21T10:40:02+02:00",
+            "TransactionLineType": "MUTATION",
+            "StockType": "RGL",
+            "TransactionSign": "MINUS",
+            "Reason": "26",
+            "Quantity": 2,
+            "Article": {
+                "Id": "230095003999OS",
+                "LotNumber": "string",
+                "Code": "string"
+            },
+            "Owner": {
+                "RelationId": "1111111",
+                "RelationType": "INT"
+            }
+        }]
+    }
+}
